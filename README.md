@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Jean Calmère Kubwayo</h1>
 <h3 align="center">Backend Developer (Java)</h3>
 
-<img align = “right” alt = “WEMove” width = “400” src = “https://c.tenor.com/9KAhLnEAIUwAAAAC/drive-beautiful.gif” >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
