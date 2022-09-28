@@ -1,5 +1,10 @@
+<div id="header" align="center">
+  
+![drive-beautiful](https://user-images.githubusercontent.com/76141050/192900057-4ccbcae3-7f46-4949-9a4e-53224568c175.gif)
 
-<h0 align "center" width = "400"> ![drive-beautiful](https://user-images.githubusercontent.com/76141050/192898624-a3ae0d96-ab67-4586-8c6e-d8e649c12d9d.gif</h0>
+  
+ </div>
+
 <h1 align="center">Hi 👋, I'm Jean Calmère Kubwayo</h1>
 <h3 align="center">Backend Developper (Java)</h3>
 
