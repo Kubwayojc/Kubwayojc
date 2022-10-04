@@ -9,7 +9,7 @@
 
 <h3 align="center">Backend Developper (Java)</h3>
 
-<p1 align="left">The C in Calmère stands for Curious. I find myself always wondering why? what if? For the last 5 years, I have been fascinated by the evolution of information technologies and computer science in improving lives.  With my newly acquired skills as a backend developer coupled with strong problem-solving skills and this never-ending curiosity,  I am ready to join others who are improving life using technologies.</p1>
+<p align="center"> The C in Calmère stands for Curious. I find myself always wondering why? what if? For the last 5 years, I have been fascinated by the evolution of information technologies and computer science in improving lives.  With my newly acquired skills as a backend developer coupled with strong problem-solving skills and this never-ending curiosity,  I am ready to join others who are improving life using technologies. </p>
 
 <h4 align="left">Connect with me:</h4>
 
