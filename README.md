@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-![drive-beautiful](https://user-images.githubusercontent.com/76141050/192900057-4ccbcae3-7f46-4949-9a4e-53224568c175.gif)
+<img src = "https://user-images.githubusercontent.com/76141050/192900057-4ccbcae3-7f46-4949-9a4e-53224568c175.gif" width = "1000" height = "300" />
 
   
  </div>
