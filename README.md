@@ -5,7 +5,7 @@
   
  </div>
 
-<h1 align="center">Hi 👋, I'm Jean Calmère Kubwayo</h1>
+<h1 align="center">Yambu 👋, I'm Jean Calmère Kubwayo</h1>
 <h3 align="center">Backend Developper (Java)</h3>
 
 <h3 align="left">Connect with me:</h3>
